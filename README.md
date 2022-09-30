@@ -1,0 +1,1 @@
+(C# Datetime ve Math Sınıfları)[https://app.patika.dev/courses/csharp-101/2-datetime-metotlar]
